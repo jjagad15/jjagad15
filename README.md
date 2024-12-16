@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🔭 I’m currently working on any fun project that comes to mind
-- 🌱 I’m currently learning C, Java, C++.
+- 🌱 I’m currently learning C, Java, C++, MATLAB.
 - 👯 I’m looking to collaborate on any cool side projects involving any language
 - 💬 Ask me about anything
 - 📫 How to reach me: Email, LinkedIn would be the fastest
