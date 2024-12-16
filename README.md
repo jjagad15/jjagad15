@@ -1,4 +1,12 @@
 ## Hi there 👋
+- 🔭 I’m currently working on any fun project that comes to mind
+- 🌱 I’m currently learning C, Java, C++.
+- 👯 I’m looking to collaborate on any cool side projects involving any language
+- 💬 Ask me about anything
+- 📫 How to reach me: Email, LinkedIn would be the fastest
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I am really into Table Tennis
+
 
 <!--
 **jjagad15/jjagad15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
